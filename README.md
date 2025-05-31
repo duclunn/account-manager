@@ -12,5 +12,4 @@ Chức năng hiện tại:
 - Kiểm soát quyền xem tài khoản
 - Quên mật khẩu (chưa hoàn thiện)
 
-
-
+Ngôn ngữ sử dụng: Swift
