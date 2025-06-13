@@ -1,4 +1,4 @@
-# account-manager
+# Account-manager
 Code Swift cho phần mềm Account Manager, ứng dụng thuật toán RSA, SHA-256, Miller-Rabin
 
 - Thuật toán SHA-256: Xử lý mật khẩu thô nhập vào trong quá trình đăng ký, đăng nhập.
